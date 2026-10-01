@@ -1,2 +1,2 @@
-I am learning Git and GitHub.
+I am learning Git and GitHub from my feature branch.
 Hi hello
