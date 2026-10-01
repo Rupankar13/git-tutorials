@@ -1,2 +1,2 @@
-I am learning Git and GitHub.
+I am learning Git and GitHub from the main branch.
 Hi hello
